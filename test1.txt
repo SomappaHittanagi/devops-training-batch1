@@ -1,5 +1,4 @@
 Added some text1
 added for staging branch 
-asdfasd
+
 This is my bugfix
-changes are updated for stash demo
