@@ -1,2 +1,4 @@
 Added some text1
 added for staging branch 
+
+This is my bugfix
